@@ -20,8 +20,7 @@
 
  <div id="breadcrumb" style="color:gray"> 
  <a href="welcome.htm" title="Go to Home" class="tip-bottom" style="color:white" style="fontsize:large"><b><i class="icon-home"></i> Home</b></a> 
- <a href="firstyear.htm" class="tip-bottom" style="color:white" style="fontsize:large"><b>FIRST YEAR</b></a> 
- <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b>LEARNING</b></a> 
+ <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b></b></a> 
 
 </div>
 </div>

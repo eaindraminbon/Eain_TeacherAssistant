@@ -20,10 +20,10 @@
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>FIRST YEAR</span> 
     	<span class="label label-important"></span></a>
     	 <ul>
-        <li id="fca"><a href="studenthome.htm">CLASSROOM A</a></li>
-        <li id="fcb"><a href="studenthome.htm">CLASSROOM B</a></li>
-        <li id="fcd"><a href="studenthome.htm">CLASSROOM C</a></li>
-        <li id="fce"><a href="studenthome.htm">CLASSROOM D</a></li>
+        <li id="fca"><a href="home.htm">CLASSROOM A</a></li>
+        <li id="fcb"><a href="home.htm">CLASSROOM B</a></li>
+        <li id="fcd"><a href="home.htm">CLASSROOM C</a></li>
+        <li id="fce"><a href=home.htm>CLASSROOM D</a></li>
       </ul>
   </li>
    <li class='submenu'>
@@ -33,15 +33,15 @@
 	    	 <li class='sub_menu' style="background-color: #133256 !important;"><a href="#"><span>SECOND YEAR CS</span></a>
 	    	 	<ul style="display:none;">
 	    	 		<span class="label label-important"></span></a>
-	    	 		<li><a href="secondyear.htm"><span>CLASSROOM A</span></a></li>
-	               <li><a href="secondyear.htm"><span>CLASSROOM B</span></a></li>
-	               <li><a href="secondyear.htm"><span>CLASSROOM C</span></a></li>
-	               <li><a href="secondyear.htm"><span>CLASSROOM D</span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM A</span></a></li>
+	               <li><a href="home.htm"><span>CLASSROOM B</span></a></li>
+	               <li><a href="home.htm"><span>CLASSROOM C</span></a></li>
+	               <li><a href="home.htm"><span>CLASSROOM D</span></a></li>
 	    	 	</ul>
 	    	 </li>
 	    	 <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>SECOND YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="secondyearct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	             
 	    	 	</ul>
 	    	 </li>
@@ -54,15 +54,15 @@
     	 	 	<li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>THIRD YEAR CS</span></a>
 	    	 	<ul style="display:none;">
 	    	 		<span class="label label-important"></span></a>
-	    	 		<li><a href="thirdyear.htm"><span>CLASSROOM A</span></a></li>
-	    	 		<li><a href="thirdyear.htm">CLASSROOM B</a></li>
-                    <li><a href="thirdyear.htm">CLASSROOM C</a></li>
-                      <li><a href="thirdyear.htm">CLASSROOM D</a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM A</span></a></li>
+	    	 		<li><a href="home.htm">CLASSROOM B</a></li>
+                    <li><a href="home.htm">CLASSROOM C</a></li>
+                      <li><a href="home.htm">CLASSROOM D</a></li>
 	             </ul>
 	    	 </li>
 	    	  <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>THIRD YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="thirdyearct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
@@ -74,15 +74,15 @@
     	 	 	 	 <ul>
     	 	 	 	 <li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>FOURTH YEAR CS</span></a>
 	    	 	<ul style="display:none;">
-					          <li><a href="fourthyear.htm">CLASSROOM A</a></li>
-					        <li><a href="fourthyear.htm">CLASSROOM B</a></li>
-					        <li><a href="fourthyear.htm">CLASSROOM C</a></li>
-					        <li><a href="fourthyear.htm">CLASSROOM D</a></li>
+					          <li><a href="home.htm">CLASSROOM A</a></li>
+					        <li><a href="home.htm">CLASSROOM B</a></li>
+					        <li><a href="home.htm">CLASSROOM C</a></li>
+					        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul>
     	</li> 	 	 	 
-    	<li class='sub_menu' style="background-color: #133256;"><a href="#"><span>THIRD YEAR CT</span></a>
+    	<li class='sub_menu' style="background-color: #133256;"><a href="#"><span>FOURTH YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="fourthyearct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
@@ -96,20 +96,21 @@
       <ul>
       	 <li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>FIFTH YEAR CS</span></a>
 	    	 	<ul style="display:none;">
-       <li><a href="fifthyear.htm">CLASSROOM A</a></li>
-        <li><a href="fifthyear.htm">CLASSROOM B</a></li>
-        <li><a href="fifthyear.htm">CLASSROOM C</a></li>
-        <li><a href="fifthyear.htm">CLASSROOM D</a></li>
+       <li><a href="home.htm">CLASSROOM A</a></li>
+        <li><a href="home.htm">CLASSROOM B</a></li>
+        <li><a href="home.htm">CLASSROOM C</a></li>
+        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul>
     </li>
     <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>FIFTH YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="fifthyearct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
     	 </ul>
       </li>
+      
       <li class="bg_lb"  >
       <a href="#"style="font-size:large; " >
       	<b><i class="icon icon-home" style="color: white"  ></i> 
@@ -122,24 +123,24 @@
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>FIRST YEAR</span> 
     	<span class="label label-important"></span></a>
     	 <ul>
-      <li><a href="first.htm">CLASSROOM A</a></li>
-        <li><a href="first.htm">CLASSROOM B</a></li>
-        <li><a href="first.htm">CLASSROOM C</a></li>
-        <li><a href="first.htm">CLASSROOM D</a></li>
+      <li><a href="home.htm">CLASSROOM A</a></li>
+        <li><a href="home.htm">CLASSROOM B</a></li>
+        <li><a href="home.htm">CLASSROOM C</a></li>
+        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul></li>
     	 <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>SECOND YEAR</span> 
     	 	<span class="label label-important"></span></a>
     	 	 <ul>
     	 	 	 <li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>SECOND YEAR CS</span></a>
 	    	 	<ul style="display:none;">
-      <li><a href="second.htm">CLASSROOM A</a></li>
-        <li><a href="second.htm">CLASSROOM B</a></li>
-        <li><a href="second.htm">CLASSROOM C</a></li>
-        <li><a href="second.htm">CLASSROOM D</a></li>
+      <li><a href="home.htm">CLASSROOM A</a></li>
+        <li><a href="home.htm">CLASSROOM B</a></li>
+        <li><a href="home.htm">CLASSROOM C</a></li>
+        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul></li>
        <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>SECOND YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="secondct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
@@ -151,14 +152,14 @@
     	 	 	 <ul>
     	 	 	  	 <li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>THIRD YEAR CS</span></a>
 	    	 	<ul style="display:none;">
-        <li><a href="third.htm">CLASSROOM A</a></li>
-        <li><a href="third.htm">CLASSROOM B</a></li>
-        <li><a href="third.htm">CLASSROOM C</a></li>
-        <li><a href="third.htm">CLASSROOM D</a></li>
+        <li><a href="home.htm">CLASSROOM A</a></li>
+        <li><a href="home.htm">CLASSROOM B</a></li>
+        <li><a href="home.htm">CLASSROOM C</a></li>
+        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul></li>
         <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>THIRD YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="thirdct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
@@ -171,15 +172,15 @@
     	 	 	 	 <ul>
     	 	 	 	  	 <li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>FOURTH YEAR CS</span></a>
 	    	 	<ul style="display:none;">
-        <li><a href="fourth.htm">CLASSROOM A</a></li>
-        <li><a href="fourth.htm">CLASSROOM B</a></li>
-        <li><a href="fourth.htm">CLASSROOM C</a></li>
-        <li><a href="fourth.htm">CLASSROOM D</a></li>
+        <li><a href="home.htm">CLASSROOM A</a></li>
+        <li><a href="home.htm">CLASSROOM B</a></li>
+        <li><a href="home.htm">CLASSROOM C</a></li>
+        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul></li>
       
        <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>FOURTH YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="fourthct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
@@ -191,15 +192,15 @@
       <ul>
        <li class='sub_menu' style="background-color: #133256  !important;"><a href="#"><span>FIFTH YEAR CS</span></a>
 	    	 	<ul style="display:none;">
-        <li><a href="fifth.htm">CLASSROOM A</a></li>
-        <li><a href="fifth.htm">CLASSROOM B</a></li>
-        <li><a href="fifth.htm">CLASSROOM C</a></li>
-        <li><a href="fifth.htm">CLASSROOM D</a></li>
+        <li><a href="home.htm">CLASSROOM A</a></li>
+        <li><a href="home.htm">CLASSROOM B</a></li>
+        <li><a href="home.htm">CLASSROOM C</a></li>
+        <li><a href="home.htm">CLASSROOM D</a></li>
       </ul>
     </li>
      <li class='sub_menu' style="background-color: #133256;"><a href="#"><span>FIFTH YEAR CT</span></a>
 	    	 	<ul style="display:none;">
-	    	 		<li><a href="fifthct.htm"><span>CLASSROOM </span></a></li>
+	    	 		<li><a href="home.htm"><span>CLASSROOM </span></a></li>
 	         
 	    	 	</ul>
 	    	 </li>
