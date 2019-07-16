@@ -10,6 +10,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Student implements Serializable{
+	//Student
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private long id;
